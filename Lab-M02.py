@@ -1,3 +1,7 @@
+#Andrew Gottschalk
+#Lab-M02
+#Program that tells if your GPA is high enough to be on the dean's list or the Honor Roll
+
 while True:
     last_name = input('Enter the student\'s last name: ')
     if last_name == 'ZZZ':
